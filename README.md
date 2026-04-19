@@ -14,3 +14,6 @@ I first started with the headers of each function I wished to have for the class
 
 # Challenges
 The main challenge with this project was ensuring proper memory management, especially with the LinkedList class. A missed dereference symbol or improper looping could lead to memory leaks, loss of data, segmentation faults, and more unexpected behaviors. The other significant challenge was figuring out how the mapping in the CircVec class worked when it the list itself didn't exactly fit the underlying array and was instead shifted. To help with this, I made a private function that got the index on the array of an item from the index in the list it was in, which helped significantly in getting through that challenge.
+
+<img width="1604" height="1114" alt="image" src="https://github.com/user-attachments/assets/f681e995-cb92-419b-b1e6-b648f4ae5276" />
+This image shows parts of both the Linked List class and Circle Vector class.
