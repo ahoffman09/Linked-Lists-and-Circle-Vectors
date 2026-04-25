@@ -1,4 +1,4 @@
-# Linked-Lists-and-Circle-Vectors
+# Linked Lists and Circle Vectors
 A project exploring the functionalities of two types of lists - Linked Lists and Circle Vectors
 
 This is a project I built in the Data Structures course I am currently taking that explores the use and functionality of two different types of list storage mechanisms that aren't generally built into system/libraries. There are two classes - LinkedList and CircVec - that each have the same functions implemented to match the respective type of list. The two classes offer quicker searching, insertion, deletion, etc of list items and variability in memory without having to shift many items and lower time complexity.
